@@ -6,8 +6,8 @@ SQL-focused data cleaning and database exploration notebooks with schema documen
 
 | File | Description |
 | :--- | :--- |
-| `notebook (5).ipynb` | SQL data cleaning and transformation notebook |
-| `notebook (6).ipynb` | Follow-up SQL querying and validation notebook |
+| `tech_solutions_sql_cleaning.ipynb` | SQL data cleaning and transformation notebook |
+| `insurance_upgrades_sql_cleaning.ipynb` | Follow-up SQL querying and validation notebook |
 | `support_db.png` | Database schema diagram (`support_db`) |
 
 ## Getting Started
